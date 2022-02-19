@@ -1,0 +1,5 @@
+.col-sm {
+    display: inline-flex;
+    flex-direction: row;
+    justify-content: center;
+  }
